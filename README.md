@@ -1,0 +1,2 @@
+# Exxcoin
+Exxcoin solidity contract
